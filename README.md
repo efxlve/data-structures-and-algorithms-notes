@@ -1,4 +1,7 @@
 # Data Structures and Algorithms Notes
+## Description
+This repo contains my notes on data structures and algorithms. The notes are written in JavaScript and Python. I have also included a few examples of each data structure and algorithm. The examples are written in JavaScript and Python.
+
 ## Table of Contents
 - [Data Structures](#data-structures)
   - [Big O Notation](#big-o-notation)
