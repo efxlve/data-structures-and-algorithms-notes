@@ -15,8 +15,8 @@
 
 ## Data Structures
 ### Big O Notation
-- [JavaScript](./JavaScript/#02%20-%20Big%20O%20Notation/0%20-%20Introduction.js)
-- [Python](./Python/#01%20-%20Big%20O%20Notation/0%20-%20Introduction.py)
+- [JavaScript](https://github.com/efxlve/data-structures-and-algorithms-notes/tree/main/JavaScript/%2301%20-%20Big%20O./JavaScript/#02%20-%20Big%20O%20Notation/0%20-%20Introduction.js)
+- [Python](https://github.com/efxlve/data-structures-and-algorithms-notes/tree/main/Python/%2301%20-%20Big%20O%20Notation)
 
 ### Arrays
 - [ ] [JavaScript](./JavaScript/#03%20-%20Data%20Structures%20-%20Arrays/0%20-%20Introduction.js)
