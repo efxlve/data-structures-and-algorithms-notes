@@ -46,7 +46,7 @@ This repo contains my notes on data structures and algorithms. The notes are wri
 - [Python](./Python/05%20-%20Trees%20&%20Recursion/)
 
 ### Heaps
-- [JavaScript](./JavaScript/)
+- [JavaScript](./JavaScript/07%20-%20Data%20Structures%20-%20Trees/)
 - [Python](./Python/09%20-%20Sorting%20Algorithms%20and%20Heap/)
 
 ### Graphs
