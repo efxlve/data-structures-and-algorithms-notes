@@ -19,40 +19,40 @@
 - [Python](./Python/01%20-%20Big%20O%20Notation)
 
 ### Arrays
-- [ ] [JavaScript](./JavaScript/#03%20-%20Data%20Structures%20-%20Arrays/0%20-%20Introduction.js)
-- [ ] [Python](./Python/#02%20-%20Arrays%20&%20Lists/0%20-%20Arrays%20and%20Lists.py)
+- [JavaScript](./JavaScript/03%20-%20Data%20Structures%20-%20Arrays/)
+- [Python](./Python/02%20-%20Arrays%20&%20Lists/)
 
 ### Linked Lists
-- [ ] [JavaScript]()
-- [ ] [Python]()
+- [JavaScript](./JavaScript/05%20-%20Data%20Structures%20-%20Linked%20Lists/)
+- [Python](./Python/04%20-%20Linked%20List/)
 
 ### Stacks
-- [ ] [JavaScript]()
-- [ ] [Python]()
+- [JavaScript](./JavaScript/06%20-%20%20Data%20Structures%20-%20Stacks%20+%20Queues/)
+- [Python](./Python/03%20-%20Stack,%20Queue,%20Deque/)
 
 ### Queues
-- [ ] [JavaScript]()
-- [ ] [Python]()
+- [JavaScript](./JavaScript/06%20-%20%20Data%20Structures%20-%20Stacks%20+%20Queues/)
+- [Python](./Python/03%20-%20Stack,%20Queue,%20Deque/)
 
 ### Hash Tables
-- [ ] [JavaScript]()
-- [ ] [Python]()
+- [JavaScript](./JavaScript/04%20-%20Data%20Structures%20-%20Hash%20Tables/)
+- [Python](./Python/08%20-%20Search%20Algorithms%20and%20HashTable/)
 
 ### Trees
-- [ ] [JavaScript]()
-- [ ] [Python]()
+- [JavaScript](./JavaScript/07%20-%20Data%20Structures%20-%20Trees/)
+- [Python](./Python/05%20-%20Trees%20&%20Recursion/)
 
 ### Heaps
-- [ ] [JavaScript]()
-- [ ] [Python]()
+- [JavaScript](./JavaScript/)
+- [Python](./Python/09%20-%20Sorting%20Algorithms%20and%20Heap/)
 
 ### Graphs
-- [ ] [JavaScript]()
-- [ ] [Python]()
+- [JavaScript](./JavaScript/08%20-%20Data%20Structures%20-%20Graphs/)
+- [Python](./Python/07%20-%20Graph/)
 
 ## Algorithms
-- [ ] [JavaScript]()
-- [ ] [Python]()
+- [JavaScript](./JavaScript/09%20-%20Algorithms%20-%20Recursion/)
+- [Python](./Python/06%20-%20Tree%20Algorithms/)
 
 ## License
 This repo is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
