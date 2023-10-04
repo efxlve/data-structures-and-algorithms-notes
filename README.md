@@ -15,7 +15,7 @@
 
 ## Data Structures
 ### Big O Notation
-- [JavaScript](./JavaScript/01%20-%20Big%20O/0%20-%20Big%20O.png)
+- [JavaScript](./JavaScript/01%20-%20Big%20O)
 - [Python](./Python/01%20-%20Big%20O%20Notation)
 
 ### Arrays
