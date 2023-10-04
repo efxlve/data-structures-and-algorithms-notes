@@ -1,6 +1,7 @@
 # Data Structures and Algorithms Notes
 ## Table of Contents
 - [Data Structures](#data-structures)
+  - [Big O Notation](#big-o-notation)
   - [Arrays](#arrays)
   - [Linked Lists](#linked-lists)
   - [Stacks](#stacks)
@@ -13,9 +14,13 @@
 - [Algorithms](#algorithms)
 
 ## Data Structures
+### Big O Notation
+- [JavaScript](./JavaScript/#02%20-%20Big%20O%20Notation/0%20-%20Introduction.js)
+- [Python](./Python/#01%20-%20Big%20O%20Notation/0%20-%20Introduction.py)
+
 ### Arrays
-- [ ] [JavaScript](./JavaScript/#03%20-%20Data%20Structures%20-%20Arrays/)
-- [ ] [Python]()
+- [ ] [JavaScript](./JavaScript/#03%20-%20Data%20Structures%20-%20Arrays/0%20-%20Introduction.js)
+- [ ] [Python](./Python/#02%20-%20Arrays%20&%20Lists/0%20-%20Arrays%20and%20Lists.py)
 
 ### Linked Lists
 - [ ] [JavaScript]()
