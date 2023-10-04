@@ -14,40 +14,40 @@
 
 ## Data Structures
 ### Arrays
-- [ ] [Arrays - JavaScript]()
-- [ ] [Arrays - Python]()
+- [ ] [JavaScript](./JavaScript/#03%20-%20Data%20Structures%20-%20Arrays/)
+- [ ] [Python]()
 
 ### Linked Lists
-- [ ] [Linked Lists - JavaScript]()
-- [ ] [Linked Lists - Python]()
+- [ ] [JavaScript]()
+- [ ] [Python]()
 
 ### Stacks
-- [ ] [Stacks - JavaScript]()
-- [ ] [Stacks - Python]()
+- [ ] [JavaScript]()
+- [ ] [Python]()
 
 ### Queues
-- [ ] [Queues - JavaScript]()
-- [ ] [Queues - Python]()
+- [ ] [JavaScript]()
+- [ ] [Python]()
 
 ### Hash Tables
-- [ ] [Hash Tables - JavaScript]()
-- [ ] [Hash Tables - Python]()
+- [ ] [JavaScript]()
+- [ ] [Python]()
 
 ### Trees
-- [ ] [Trees - JavaScript]()
-- [ ] [Trees - Python]()
+- [ ] [JavaScript]()
+- [ ] [Python]()
 
 ### Heaps
-- [ ] [Heaps - JavaScript]()
-- [ ] [Heaps - Python]()
+- [ ] [JavaScript]()
+- [ ] [Python]()
 
 ### Graphs
-- [ ] [Graphs - JavaScript]()
-- [ ] [Graphs - Python]()
+- [ ] [JavaScript]()
+- [ ] [Python]()
 
 ## Algorithms
-- [ ] [Algorithms - JavaScript]()
-- [ ] [Algorithms - Python]()
+- [ ] [JavaScript]()
+- [ ] [Python]()
 
 ## License
 This repo is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
